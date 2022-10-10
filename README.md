@@ -160,7 +160,7 @@ Please see the following code for an example using this interface.  This example
 each function of the library.   This also shows an example of how to write non-blocking functions for use with the menu.  
 Blocking functions could simply return true at the end.  
 
-```arduino
+```C
 #include "REBL_UI.h"
 #include <LiquidCrystal_SPI_8Bit.h>
 #include <TimeLib.h>
